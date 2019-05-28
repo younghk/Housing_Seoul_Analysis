@@ -1,10 +1,10 @@
 # Seoul Housing _Analysis
 
-dependencies  
+### dependencies  
 
-jupyter notebook
-python3
-pip
+1. jupyter notebook  
+2. python3  
+3. pip  
 
 install 3 above things on your machine(Windows or Macintosh)
 
