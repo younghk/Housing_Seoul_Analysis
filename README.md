@@ -8,15 +8,14 @@
 
 install 3 above things on your machine(Windows or Macintosh)
 
-
-pandas  
-
-`
-pip install pandas
-`
   
-xlrd  
+install python library using command-line  
 
-`
-pip install xlrd
-`
+
+_pandas_  
+`pip install pandas`
+
+
+    
+_xlrd_  
+`pip install xlrd`
